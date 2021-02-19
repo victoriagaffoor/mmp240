@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Exercise 11</title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="#">Fruits <img src="https://img.icons8.com/ios-filled/26/000000/chevron-down.png"/></a>
+          <ul>
+            <li><a href="#">Apple</a></li>
+            <li><a href="#">Orange</a></li>
+            <li><a href="#">Pear</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Vegetables</a>
+          <ul>
+            <li><a href="#">cabbage</a></li>
+            <li><a href="#">Potatoes</a></li>
+            <li><a href="#">Squash</a></li>
+          </ul>
+       </li>
+     </nav>
+
+  </body>
+</html>
