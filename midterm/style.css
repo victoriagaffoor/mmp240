@@ -1,0 +1,102 @@
+
+    	*{
+    		margin: 1px;
+    		padding: 0;
+    	}
+
+    	body{
+    		font-family: arial, helvetica, sans-serif;
+    		line-height: 1.2em;
+    	}
+
+    	.container{
+    	max-width: 1200px;
+    	}
+    	.image-head{
+    		background-image: url("euphoria1.jpg");
+    		height: 600px;
+    		background-size: cover;
+    		height: 500px;
+    	}
+
+      align-items{
+        align-content: center;
+      }
+      img {
+      	width: 95%;
+      	height: auto;
+      	padding-left: 1.5em;
+      }
+
+.centered{
+	
+}
+
+.col-left{
+	float:left;
+	width:45%;
+
+}
+.col-right{
+	float:right;
+	width:45%;
+	padding-right: 1.5em;
+}
+div.col-right{
+	text-align: justify;
+}
+
+ div.col-left{
+ 	text-align: justify;
+ 	padding: 3%;
+ }
+
+nav li{
+	list-style: none;
+	display: inline-block;
+	padding-top: 2em;
+}
+
+nav li a:hover{
+	text-decoration: underline;
+}
+
+nav a{
+	text-decoration: none;
+	font-size: 200%;
+	color: white;
+	padding-left: 1em;
+	padding-top: 2em;
+}
+
+nav{
+
+	margin: 0 auto;
+	background-color: black;
+}
+
+h1{
+	padding: 3%;
+}
+h3{
+	padding-top: 3%;
+}
+div.content h3{
+  padding:3%;
+}
+.rows{
+  width:100%;
+  float: left;
+  margin:2%;
+}
+.thumbnails{
+  width:22%;
+  float: left;
+  margin:1%;
+}
+.thumbnails img{
+  width:100%;
+  padding:0;
+  margin: 0;
+  cursor: pointer;
+}
