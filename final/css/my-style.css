@@ -1,0 +1,77 @@
+.programs, .content, footer, .ad{
+	width: 100%;
+	float: left;
+}
+.programs{
+	border: 1px solid black;
+	padding: 2%;
+	height: 15em;
+	border-radius: 10px;
+	margin-bottom: 2%;
+}
+h4{
+	padding-top: 1.5em;
+}
+h6{
+	padding-top: 1em;
+}
+.dropdown{
+	width: 33%;
+	float: left;
+	margin-top: 1%;
+}
+.ad{
+	background-image: url("../images/cuny.jpg");
+	height: 20em;
+	max-width: 100%;
+	background-repeat: no-repeat;
+	background-size: contain;
+	margin-bottom: 2%;
+}
+.ad h2{
+	padding: 2%;
+	color: white;
+}
+.btn-danger{
+	margin-left: 2%;
+}
+.design-articles{
+	width: 70%;
+	float: left;
+}
+.read-more{
+	padding-bottom: 1em;
+}
+.event{
+	width: 30%;
+	float: left;
+}
+.event img, .cards img{
+	width: 100%;
+}
+.cards-content{
+	width: 100%;
+	float: left;
+}
+.cards{
+	width: 24%;
+	float: left;
+	margin: 1%;
+	border: solid 3px pink;
+	background: #DEC0FE;
+	border-radius: 5%;
+	padding: 5px;
+}
+.cards img{
+	background-size: contain;
+}
+.btn-primary{
+	background: gray;
+	width: 90%;
+	text-align: left;
+	height: 3em;
+}
+a{
+	color: black;
+
+}
